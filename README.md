@@ -1,6 +1,7 @@
 Convocatoria Abierta - Silicluster 2025
 
 Version en Español
+
 ¿Diseñas en Verilog? ¿Te gustaría ver tu proyecto fabricado en silicio real?
 
 Esta es tu oportunidad de formar parte de Silicluster, un chip colaborativo que reunirá módulos digitales
@@ -49,7 +50,10 @@ No es un concurso: si tu módulo cumple con las reglas, ¡lo incluimos en el chi
 ¡Sí! Puedes enviar más de un proyecto, siempre que cada uno cumpla con todos los requisitos y se envíe de
 forma organizada e independiente (por ejemplo, en carpetas o archivos `.zip` separados, uno por módulo).
 
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
 English Version
+
 Do you design in Verilog? Would you like to see your project fabricated in real silicon?
 
 This is your chance to be part of Silicluster, a collaborative chip that integrates simple digital modules from
